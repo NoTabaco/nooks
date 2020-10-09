@@ -1,3 +1,3 @@
-# @nnooks/use-title
+# @nookss/use-title
 
 React Hook to update your document's title
